@@ -1,4 +1,5 @@
 # Python 中的函数
+import str
 
 def test(a):
     print(a)
