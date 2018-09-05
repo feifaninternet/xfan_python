@@ -1,3 +1,4 @@
+# number
 a = 1
 del a
 a = 2
